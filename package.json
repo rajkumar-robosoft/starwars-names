@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "starwars-names-new",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
@@ -16,7 +16,7 @@
     "wars"
   ],
   "author": "Raj Kumar Singh <rajkumar.singh@robosoftin.com>",
-  "license": "none",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rajkumar-robosoft/starwars-names/issues"
   },
